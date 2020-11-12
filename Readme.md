@@ -1,5 +1,4 @@
 ## Amazon Clone - React Native
----
 #### Developed using the following
 - React Native
 - Expo Vector Icons
